@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+<title>Ilustração de canais de atendimento</title>
+<rect width="720" height="480" rx="24" fill="#eaf3f8"/>
+
+<circle cx="359" cy="240" r="173" fill="#d1e7f3"/>
+<path d="M377 86 H548 Q576 86 576 113 V227 Q576 254 548 254 H448 L403 291 V254 H377 Q350 254 350 227 V113 Q350 86 377 86 Z" fill="#005fa3"/>
+<g fill="#fff"><circle cx="407" cy="172" r="10"/><circle cx="462" cy="172" r="10"/><circle cx="518" cy="172" r="10"/></g>
+<rect x="150" y="217" width="312" height="178" rx="14" fill="#fff" stroke="#123653" stroke-width="6"/>
+<path d="M159 228 L305 334 L453 228 M160 385 L255 298 M452 385 L357 298" fill="none" stroke="#82b0cd" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="164" cy="139" r="27" fill="#b2d9c7"/>
+
+</svg>

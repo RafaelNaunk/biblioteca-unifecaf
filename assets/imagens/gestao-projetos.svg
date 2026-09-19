@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Gestão de Projetos</title>
+  <desc id="descricao">Capa ilustrativa de um livro fictício da categoria Gestão. Projeto acadêmico de biblioteca digital.</desc>
+  <rect width="600" height="900" fill="#176b45"/>
+  <rect width="14" height="900" fill="#bdeed6"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif" fill="#ffffff">
+    <text x="54" y="60" font-size="21" letter-spacing="2">BIBLIOTECA DIGITAL</text>
+    <text x="54" y="108" font-size="19" letter-spacing="2" fill="#bdeed6">GESTÃO / 03</text>
+    <text x="54" y="190" font-size="54" font-weight="700">Gestão de</text><text x="54" y="258" font-size="54" font-weight="700">Projetos</text>
+    <text x="54" y="330" font-size="21">Planejamento, equipe e execução</text>
+    <g fill="none" stroke="#bdeed6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M188 480 H412 M188 480 V658 H412 M300 480 V658"/>
+      <rect x="122" y="440" width="132" height="82" rx="12"/><rect x="346" y="440" width="132" height="82" rx="12"/>
+      <rect x="122" y="618" width="132" height="82" rx="12"/><rect x="346" y="618" width="132" height="82" rx="12"/>
+      <path d="M163 479 L181 495 L214 463 M386 657 L403 673 L436 641" stroke-width="8"/>
+      <path d="M378 481 H446 M152 659 H222" stroke-width="8"/>
+      <circle cx="300" cy="571" r="26"/></g>
+    <path d="M54 786 H546" stroke="#bdeed6" stroke-width="1"/>
+    <text x="54" y="822" font-size="19" font-weight="700" letter-spacing="2">ACERVO DEMONSTRATIVO</text>
+    <text x="54" y="854" font-size="16">Capa ilustrativa · Livro fictício</text>
+  </g>
+</svg>

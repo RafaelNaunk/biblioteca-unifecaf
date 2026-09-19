@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+<title>Ilustração de livros e descobertas</title>
+<rect width="720" height="480" rx="24" fill="#123653"/>
+
+<circle cx="374" cy="238" r="167" fill="#1e4f72"/>
+<circle cx="613" cy="104" r="31" fill="#2a6588"/>
+<path d="M112 383 H620" stroke="#80b8d5" stroke-width="3"/>
+<rect x="194" y="349" width="333" height="31" rx="8" fill="#9bd7ef"/>
+<rect x="222" y="317" width="300" height="31" rx="8" fill="#b9ddce"/>
+<path d="M231 329 H493 M214 362 H497" stroke="#123653" stroke-width="3"/>
+<path d="M161 139 Q261 113 359 160 Q457 113 557 139 V327 Q457 300 359 344 Q261 300 161 327 Z" fill="#fff" stroke="#82b7d4" stroke-width="4"/>
+<path d="M359 160 V341" stroke="#82b7d4" stroke-width="4"/>
+<g fill="none" stroke="#82b7d4" stroke-width="5" stroke-linecap="round">
+<path d="M190 177 Q261 158 327 188 M190 212 Q261 193 327 223 M190 247 Q252 231 303 252 M390 188 Q457 158 527 177 M390 223 Q457 193 527 212 M390 258 Q445 233 505 246"/></g>
+<path d="M446 138 V222 L464 210 L482 222 V131" fill="#1d7b68"/>
+<path d="M121 91 V123 M105 107 H137 M585 265 V289 M573 277 H597" stroke="#b9ddce" stroke-width="6" stroke-linecap="round"/>
+
+</svg>

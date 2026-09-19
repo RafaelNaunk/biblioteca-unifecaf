@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Introdução à Programação</title>
+  <desc id="descricao">Capa ilustrativa de um livro fictício da categoria Tecnologia. Projeto acadêmico de biblioteca digital.</desc>
+  <rect width="600" height="900" fill="#005fa3"/>
+  <rect width="14" height="900" fill="#b5e8ff"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif" fill="#ffffff">
+    <text x="54" y="60" font-size="21" letter-spacing="2">BIBLIOTECA DIGITAL</text>
+    <text x="54" y="108" font-size="19" letter-spacing="2" fill="#b5e8ff">TECNOLOGIA / 01</text>
+    <text x="54" y="190" font-size="54" font-weight="700">Introdução à</text><text x="54" y="258" font-size="54" font-weight="700">Programação</text>
+    <text x="54" y="330" font-size="21">Lógica, algoritmos e primeiros passos</text>
+    <g fill="none" stroke="#b5e8ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="104" y="432" width="392" height="254" rx="18"/>
+      <path d="M104 478 H496"/><circle cx="132" cy="455" r="4"/><circle cx="152" cy="455" r="4"/><circle cx="172" cy="455" r="4"/>
+      <path d="M220 530 L165 573 L220 616 M380 530 L435 573 L380 616 M326 518 L274 628" stroke-width="10"/>
+      <path d="M200 716 H400 M258 686 V716 M342 686 V716"/></g>
+    <path d="M54 786 H546" stroke="#b5e8ff" stroke-width="1"/>
+    <text x="54" y="822" font-size="19" font-weight="700" letter-spacing="2">ACERVO DEMONSTRATIVO</text>
+    <text x="54" y="854" font-size="16">Capa ilustrativa · Livro fictício</text>
+  </g>
+</svg>

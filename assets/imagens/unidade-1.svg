@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+<title>Unidade ilustrativa para estudo individual</title>
+<rect width="720" height="480" rx="24" fill="#eaf3f8"/>
+
+<rect x="53" y="52" width="223" height="214" rx="10" fill="#fff"/>
+<path d="M165 55 V263 M56 160 H273" stroke="#bdd8e8" stroke-width="6"/>
+<path d="M64 252 L127 195 L190 228 L264 187 V252 Z" fill="#c3e1d2"/>
+<rect x="354" y="88" width="288" height="13" rx="4" fill="#7aa4bd"/>
+<rect x="371" y="40" width="29" height="48" rx="3" fill="#005fa3"/><rect x="407" y="27" width="33" height="61" rx="3" fill="#2e7566"/>
+<rect x="447" y="43" width="28" height="45" rx="3" fill="#123653"/>
+<path d="M127 344 H613" stroke="#123653" stroke-width="15" stroke-linecap="round"/>
+<path d="M161 351 L147 428 M578 351 L592 428" stroke="#7aa4bd" stroke-width="11"/>
+<path d="M242 271 Q285 255 331 274 Q376 255 420 271 V326 Q376 310 331 332 Q286 310 242 326 Z" fill="#fff" stroke="#005fa3" stroke-width="4"/>
+<path d="M331 274 V330 M257 287 Q290 278 317 290 M346 290 Q377 278 405 287" fill="none" stroke="#8bb5cf" stroke-width="3"/>
+<path d="M499 326 V205 L450 164" fill="none" stroke="#005fa3" stroke-width="9" stroke-linecap="round"/>
+<path d="M416 156 Q444 130 466 152 L441 193 Z" fill="#005fa3"/>
+<path d="M76 432 H649" stroke="#c3dce9" stroke-width="3"/>
+
+</svg>

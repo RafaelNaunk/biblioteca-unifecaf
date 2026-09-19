@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+<title>Unidade ilustrativa para estudo em grupo</title>
+<rect width="720" height="480" rx="24" fill="#eaf3f8"/>
+
+<rect x="214" y="46" width="291" height="110" rx="10" fill="#fff" stroke="#b0cedf" stroke-width="4"/>
+<path d="M240 75 H389 M240 98 H464 M240 122 H420" stroke="#9ec4da" stroke-width="6" stroke-linecap="round"/>
+<rect x="195" y="189" width="91" height="94" rx="21" fill="#005fa3"/>
+<rect x="433" y="189" width="91" height="94" rx="21" fill="#2e7566"/>
+<ellipse cx="360" cy="296" rx="231" ry="72" fill="#b8d7e8" stroke="#123653" stroke-width="6"/>
+<path d="M168 318 L155 414 M552 318 L565 414" stroke="#7aa4bd" stroke-width="11"/>
+<path d="M255 264 H310 V300 H255 Z M369 279 H425 V310 H369 Z" fill="#fff" stroke="#005fa3" stroke-width="3"/>
+<path d="M264 274 H298 M264 284 H291 M378 289 H414 M378 299 H405" stroke="#8ab3ca" stroke-width="3"/>
+<rect x="208" y="329" width="96" height="65" rx="19" fill="#2e7566"/>
+<rect x="416" y="329" width="96" height="65" rx="19" fill="#005fa3"/>
+<path d="M225 391 V424 M286 391 V424 M433 391 V424 M494 391 V424" stroke="#123653" stroke-width="7"/>
+<path d="M100 429 H620" stroke="#c3dce9" stroke-width="3"/>
+
+</svg>

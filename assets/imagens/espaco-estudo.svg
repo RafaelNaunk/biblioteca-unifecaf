@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+<title>Ilustração de um espaço de estudo com livros</title>
+<rect width="960" height="640" rx="32" fill="#eaf3f8"/>
+<rect x="78" y="81" width="281" height="277" rx="12" fill="#fff"/>
+<path d="M218 85 V355 M82 220 H355" stroke="#c8e0ec" stroke-width="7"/>
+<path d="M91 345 L197 274 L281 315 L345 275 V345 Z" fill="#cbe5db"/>
+<circle cx="289" cy="147" r="29" fill="#d8ecf9"/>
+<rect x="486" y="128" width="379" height="18" rx="4" fill="#80a8c0"/>
+<rect x="486" y="261" width="379" height="18" rx="4" fill="#80a8c0"/>
+<g><rect x="504" y="57" width="36" height="71" rx="3" fill="#005fa3"/><rect x="548" y="39" width="38" height="89" rx="3" fill="#2c6874"/><rect x="594" y="63" width="34" height="65" rx="3" fill="#123653"/>
+<rect x="512" y="173" width="40" height="88" rx="3" fill="#123653"/><rect x="560" y="181" width="30" height="80" rx="3" fill="#005fa3"/><rect x="598" y="161" width="35" height="100" rx="3" fill="#2c6874"/>
+<rect x="709" y="226" width="118" height="16" rx="3" fill="#005fa3"/><rect x="700" y="246" width="136" height="15" rx="3" fill="#123653"/></g>
+<g stroke="#c8e7f5" stroke-width="4"><path d="M513 76 H531 M557 61 H577 M603 80 H620 M521 193 H543 M568 201 H582 M607 182 H624"/></g>
+<path d="M186 459 H795" stroke="#123653" stroke-width="20" stroke-linecap="round"/>
+<path d="M224 468 L204 582 M751 468 L771 582" stroke="#80a8c0" stroke-width="15" stroke-linecap="round"/>
+<rect x="362" y="286" width="264" height="159" rx="12" fill="#123653"/>
+<rect x="377" y="301" width="234" height="129" rx="6" fill="#fff"/>
+<path d="M401 325 H532 M401 344 H587 M401 363 H575 M401 382 H520" stroke="#b6d8ea" stroke-width="7" stroke-linecap="round"/>
+<path d="M347 443 H641 L660 458 H328 Z" fill="#679ebd"/>
+<rect x="239" y="425" width="79" height="16" rx="3" fill="#005fa3"/><rect x="231" y="441" width="94" height="13" rx="3" fill="#2c6874"/>
+<path d="M701 415 Q685 369 653 360 Q654 401 701 415 M701 394 Q718 347 749 344 Q748 381 701 394 M701 420 V361" fill="#6ba28b" stroke="#3d7b65" stroke-width="4" stroke-linecap="round"/>
+<path d="M676 408 H728 L721 450 H683 Z" fill="#005fa3"/>
+<path d="M104 585 H863" stroke="#cbdee9" stroke-width="4"/>
+</svg>

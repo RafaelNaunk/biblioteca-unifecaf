@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Metodologia Científica</title>
+  <desc id="descricao">Capa ilustrativa de um livro fictício da categoria Pesquisa. Projeto acadêmico de biblioteca digital.</desc>
+  <rect width="600" height="900" fill="#9a4600"/>
+  <rect width="14" height="900" fill="#ffdfad"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif" fill="#ffffff">
+    <text x="54" y="60" font-size="21" letter-spacing="2">BIBLIOTECA DIGITAL</text>
+    <text x="54" y="108" font-size="19" letter-spacing="2" fill="#ffdfad">PESQUISA / 06</text>
+    <text x="54" y="190" font-size="54" font-weight="700">Metodologia</text><text x="54" y="258" font-size="54" font-weight="700">Científica</text>
+    <text x="54" y="330" font-size="21">Perguntas, evidências e descobertas</text>
+    <g fill="none" stroke="#ffdfad" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M113 457 Q207 420 296 469 V694 Q204 643 113 680 Z M296 469 Q387 420 481 457 V680 Q388 643 296 694"/>
+      <path d="M145 487 Q209 464 267 493 M145 527 Q209 504 267 533 M145 567 Q209 544 243 563"/>
+      <circle cx="378" cy="555" r="50"/><path d="M412 592 L451 634" stroke-width="12"/>
+      <path d="M357 555 L374 572 L401 540" stroke-width="7"/></g>
+    <path d="M54 786 H546" stroke="#ffdfad" stroke-width="1"/>
+    <text x="54" y="822" font-size="19" font-weight="700" letter-spacing="2">ACERVO DEMONSTRATIVO</text>
+    <text x="54" y="854" font-size="16">Capa ilustrativa · Livro fictício</text>
+  </g>
+</svg>

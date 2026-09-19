@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/style.css">
+        <title>Biblioteca Digital UniFECAF</title>
+    </head>
+    <body>
+        <header class="cabecalho">
+            <div class="container barra-topo">
+                <a class="marca" href="#inicio">UniFECAF | Biblioteca</a>
+                <nav class="menu" aria-label="Navegação principal">
+                    <a href="#biblioteca">Biblioteca</a>
+                    <a href="#livros">Livros</a>
+                    <a href="#unidades">Unidades</a>
+                    <a href="#contatos">Contatos</a>
+                </nav>
+            </div>
+        </header>
+        <main class="container">
+            <!-- Banner principal: título e acesso ao acervo. -->
+
+            <section id="inicio" class="banner-principal">
+                <div>
+                    <h1>Biblioteca Digital UniFECAF</h1>
+                    <p>
+                        Conhecimento para acompanhar sua jornada acadêmica. Explore diferentes áreas
+                        e encontre inspiração para seus estudos.
+                    </p>
+                    <a class="botao" href="#livros">Explorar livros</a>
+                </div>
+                <img
+                    class="imagem-responsiva"
+                    src="assets/imagens/biblioteca-digital.svg"
+                    alt=""
+                    width="960"
+                    height="640"
+                >
+            </section>
+
+            <!-- Apresentação da biblioteca e quatro áreas de conhecimento. -->
+
+            <section id="biblioteca" class="secao sobre-biblioteca">
+                <h2>Sobre a nossa biblioteca</h2>
+                <div class="sobre-conteudo">
+                    <p>
+                        Esta proposta de biblioteca digital aproxima estudantes de conteúdos de
+                        tecnologia, design, gestão e pesquisa.
+                    </p>
+                    <img
+                        class="imagem-responsiva"
+                        src="assets/imagens/espaco-estudo.svg"
+                        alt="Ilustração de um ambiente de estudo"
+                        width="960"
+                        height="640"
+                    >
+                    <p>
+                        O acervo demonstrativo apresenta temas que apoiam a formação acadêmica. A
+                        organização por categorias ajuda a identificar assuntos de interesse.
+                    </p>
+                </div>
+                <div class="areas-conhecimento">
+                    <figure class="tema-tecnologia">
+                        <img
+                            src="assets/imagens/categoria-tecnologia.svg"
+                            alt=""
+                            width="240"
+                            height="220"
+                        >
+                        <figcaption>Tecnologia</figcaption>
+                    </figure>
+                    <figure class="tema-design">
+                        <img
+                            src="assets/imagens/categoria-design.svg"
+                            alt=""
+                            width="240"
+                            height="220"
+                        >
+                        <figcaption>Design</figcaption>
+                    </figure>
+                    <figure class="tema-gestao">
+                        <img
+                            src="assets/imagens/categoria-gestao.svg"
+                            alt=""
+                            width="240"
+                            height="220"
+                        >
+                        <figcaption>Gestão</figcaption>
+                    </figure>
+                    <figure class="tema-pesquisa">
+                        <img
+                            src="assets/imagens/categoria-pesquisa.svg"
+                            alt=""
+                            width="240"
+                            height="220"
+                        >
+                        <figcaption>Pesquisa</figcaption>
+                    </figure>
+                </div>
+            </section>
+
+            <!-- Segundo banner: seção independente, antes dos livros. -->
+
+            <section class="banner-destaque">
+                <div>
+                    <h2>Um novo capítulo começa aqui</h2>
+                    <p>
+                        Explore diferentes áreas do conhecimento e encontre novos caminhos para sua
+                        aprendizagem.
+                    </p>
+                    <a class="botao botao-claro" href="#livros">Explorar acervo</a>
+                </div>
+                <img
+                    class="imagem-responsiva"
+                    src="assets/imagens/banner-leitura.svg"
+                    alt=""
+                    width="720"
+                    height="480"
+                >
+            </section>
+
+            <!-- Acervo demonstrativo: seis cartões com detalhes expansíveis. -->
+
+            <section id="livros" class="secao">
+                <h2>Nossos livros</h2>
+                <p>Explore os materiais do nosso acervo demonstrativo.</p>
+                <div class="grade-livros">
+                    <article class="cartao-livro tema-tecnologia">
+                        <img
+                            class="capa-livro"
+                            src="assets/imagens/programacao.svg"
+                            alt="Capa ilustrativa de Introdução à Programação"
+                            width="600"
+                            height="900"
+                        >
+                        <p class="categoria">Tecnologia</p>
+                        <h3>Introdução à Programação</h3>
+                        <p>
+                            Conheça os fundamentos da lógica e os primeiros passos para desenvolver
+                            programas.
+                        </p>
+                        <details class="detalhes-livro">
+                            <summary>Saiba mais</summary>
+                            <p>
+                                Conteúdo demonstrativo sobre variáveis, condições, repetições e
+                                construção de algoritmos.
+                            </p>
+                        </details>
+                    </article>
+                    <article class="cartao-livro tema-design">
+                        <img
+                            class="capa-livro"
+                            src="assets/imagens/design-web.svg"
+                            alt="Capa ilustrativa de Fundamentos do Design Web"
+                            width="600"
+                            height="900"
+                        >
+                        <p class="categoria">Design</p>
+                        <h3>Fundamentos do Design Web</h3>
+                        <p>
+                            Explore conceitos de composição, cores e tipografia aplicados à criação
+                            de interfaces.
+                        </p>
+                        <details class="detalhes-livro">
+                            <summary>Saiba mais</summary>
+                            <p>
+                                Conteúdo demonstrativo sobre hierarquia visual, organização de
+                                páginas e layouts responsivos.
+                            </p>
+                        </details>
+                    </article>
+                    <article class="cartao-livro tema-gestao">
+                        <img
+                            class="capa-livro"
+                            src="assets/imagens/gestao-projetos.svg"
+                            alt="Capa ilustrativa de Gestão de Projetos"
+                            width="600"
+                            height="900"
+                        >
+                        <p class="categoria">Gestão</p>
+                        <h3>Gestão de Projetos</h3>
+                        <p>
+                            Entenda como organizar atividades, acompanhar prazos e trabalhar em
+                            equipe.
+                        </p>
+                        <details class="detalhes-livro">
+                            <summary>Saiba mais</summary>
+                            <p>
+                                Conteúdo demonstrativo sobre planejamento, definição de objetivos e
+                                acompanhamento de entregas.
+                            </p>
+                        </details>
+                    </article>
+                    <article class="cartao-livro tema-tecnologia">
+                        <img
+                            class="capa-livro"
+                            src="assets/imagens/banco-dados.svg"
+                            alt="Capa ilustrativa de Banco de Dados"
+                            width="600"
+                            height="900"
+                        >
+                        <p class="categoria">Tecnologia</p>
+                        <h3>Banco de Dados</h3>
+                        <p>
+                            Descubra como armazenar, organizar e consultar informações de maneira
+                            estruturada.
+                        </p>
+                        <details class="detalhes-livro">
+                            <summary>Saiba mais</summary>
+                            <p>
+                                Conteúdo demonstrativo sobre tabelas, relacionamentos, chaves e
+                                consultas básicas em SQL.
+                            </p>
+                        </details>
+                    </article>
+                    <article class="cartao-livro tema-design">
+                        <img
+                            class="capa-livro"
+                            src="assets/imagens/experiencia-usuario.svg"
+                            alt="Capa ilustrativa de Experiência do Usuário"
+                            width="600"
+                            height="900"
+                        >
+                        <p class="categoria">Design</p>
+                        <h3>Experiência do Usuário</h3>
+                        <p>
+                            Aprenda a pensar em interfaces a partir das necessidades das pessoas que
+                            vão utilizá-las.
+                        </p>
+                        <details class="detalhes-livro">
+                            <summary>Saiba mais</summary>
+                            <p>
+                                Conteúdo demonstrativo sobre pesquisa com usuários, usabilidade,
+                                prototipação e acessibilidade.
+                            </p>
+                        </details>
+                    </article>
+                    <article class="cartao-livro tema-pesquisa">
+                        <img
+                            class="capa-livro"
+                            src="assets/imagens/metodologia-cientifica.svg"
+                            alt="Capa ilustrativa de Metodologia Científica"
+                            width="600"
+                            height="900"
+                        >
+                        <p class="categoria">Pesquisa</p>
+                        <h3>Metodologia Científica</h3>
+                        <p>
+                            Conheça caminhos para investigar problemas e desenvolver trabalhos
+                            acadêmicos.
+                        </p>
+                        <details class="detalhes-livro">
+                            <summary>Saiba mais</summary>
+                            <p>
+                                Conteúdo demonstrativo sobre perguntas de pesquisa, levantamento de
+                                fontes e organização de evidências.
+                            </p>
+                        </details>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Três unidades ilustrativas, conforme a estrutura do protótipo. -->
+
+            <section id="unidades" class="secao unidades">
+                <h2>As unidades</h2>
+                <p>
+                    Unidades ilustrativas criadas para este projeto acadêmico. As imagens e
+                    descrições não representam instalações reais.
+                </p>
+                <div class="lista-unidades">
+                    <article class="unidade">
+                        <img
+                            class="imagem-responsiva"
+                            src="assets/imagens/unidade-1.svg"
+                            alt="Ilustração de uma mesa para estudo individual"
+                            width="720"
+                            height="480"
+                        >
+                        <div>
+                            <h3>Unidade 1 — Estudo individual</h3>
+                            <p>
+                                Exemplo de ambiente pensado para leitura concentrada, revisão de
+                                conteúdos e realização de atividades individuais.
+                            </p>
+                        </div>
+                    </article>
+                    <article class="unidade">
+                        <img
+                            class="imagem-responsiva"
+                            src="assets/imagens/unidade-2.svg"
+                            alt="Ilustração de uma mesa para estudo em grupo"
+                            width="720"
+                            height="480"
+                        >
+                        <div>
+                            <h3>Unidade 2 — Aprendizagem em grupo</h3>
+                            <p>
+                                Exemplo de ambiente voltado à troca de ideias, discussão de
+                                conteúdos e desenvolvimento de trabalhos em equipe.
+                            </p>
+                        </div>
+                    </article>
+                    <article class="unidade">
+                        <img
+                            class="imagem-responsiva"
+                            src="assets/imagens/unidade-3.svg"
+                            alt="Ilustração de computadores para pesquisa"
+                            width="720"
+                            height="480"
+                        >
+                        <div>
+                            <h3>Unidade 3 — Pesquisa digital</h3>
+                            <p>
+                                Exemplo de ambiente com computadores para pesquisa acadêmica,
+                                consulta de materiais digitais e organização dos estudos.
+                            </p>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Canais oficiais de atendimento da instituição. -->
+
+            <section id="contatos" class="secao contatos">
+                <div>
+                    <h2>Contatos</h2>
+                    <p>
+                        Para informações sobre a instituição e seus serviços, consulte os canais
+                        oficiais de atendimento.
+                    </p>
+                    <address>
+                        <p>
+                            <strong>WhatsApp institucional:</strong>
+                            (11) 4210-4950
+                        </p>
+                    </address>
+                    <a class="botao" href="https://www.unifecaf.com.br/contato">
+                        Acessar atendimento oficial
+                    </a>
+                </div>
+                <img
+                    class="imagem-responsiva imagem-contato"
+                    src="assets/imagens/contatos.svg"
+                    alt=""
+                    width="720"
+                    height="480"
+                >
+            </section>
+        </main>
+        <footer class="rodape">
+            <div class="container rodape-conteudo">
+                <p>Projeto acadêmico de Design Web — Biblioteca Digital UniFECAF.</p>
+                <a href="#inicio">Voltar ao início</a>
+            </div>
+        </footer>
+    </body>
+</html>

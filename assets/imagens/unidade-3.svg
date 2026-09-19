@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+<title>Unidade ilustrativa para pesquisa digital</title>
+<rect width="720" height="480" rx="24" fill="#eaf3f8"/>
+
+<rect x="91" y="57" width="538" height="99" rx="12" fill="#fff"/>
+<circle cx="145" cy="106" r="26" fill="none" stroke="#005fa3" stroke-width="6"/><path d="M165 126 L185 146 M219 93 H586 M219 121 H473" stroke="#8ab3ca" stroke-width="6" stroke-linecap="round"/>
+<path d="M60 349 H660" stroke="#123653" stroke-width="15" stroke-linecap="round"/>
+<path d="M96 355 V430 M624 355 V430" stroke="#7aa4bd" stroke-width="11"/>
+<g fill="#123653"><rect x="85" y="212" width="159" height="104" rx="9"/><rect x="282" y="212" width="159" height="104" rx="9"/><rect x="479" y="212" width="159" height="104" rx="9"/></g>
+<g fill="#fff"><rect x="96" y="223" width="137" height="80" rx="3"/><rect x="293" y="223" width="137" height="80" rx="3"/><rect x="490" y="223" width="137" height="80" rx="3"/></g>
+<g stroke="#8ab3ca" stroke-width="5" stroke-linecap="round"><path d="M111 244 H211 M111 261 H191 M111 278 H202 M308 244 H408 M308 261 H388 M308 278 H399 M505 244 H605 M505 261 H585 M505 278 H596"/></g>
+<g stroke="#123653" stroke-width="6" stroke-linecap="round"><path d="M165 316 V332 M145 334 H185 M362 316 V332 M342 334 H382 M559 316 V332 M539 334 H579"/></g>
+<path d="M70 434 H650" stroke="#c3dce9" stroke-width="3"/>
+
+</svg>

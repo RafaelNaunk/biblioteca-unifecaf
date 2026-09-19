@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Banco de Dados</title>
+  <desc id="descricao">Capa ilustrativa de um livro fictício da categoria Tecnologia. Projeto acadêmico de biblioteca digital.</desc>
+  <rect width="600" height="900" fill="#005fa3"/>
+  <rect width="14" height="900" fill="#b5e8ff"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif" fill="#ffffff">
+    <text x="54" y="60" font-size="21" letter-spacing="2">BIBLIOTECA DIGITAL</text>
+    <text x="54" y="108" font-size="19" letter-spacing="2" fill="#b5e8ff">TECNOLOGIA / 04</text>
+    <text x="54" y="190" font-size="54" font-weight="700">Banco de</text><text x="54" y="258" font-size="54" font-weight="700">Dados</text>
+    <text x="54" y="330" font-size="21">Organização, relações e consultas</text>
+    <g fill="none" stroke="#b5e8ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="300" cy="452" rx="160" ry="48"/>
+      <path d="M140 452 V648 C140 674 212 696 300 696 C388 696 460 674 460 648 V452"/>
+      <path d="M140 517 C140 543 212 565 300 565 C388 565 460 543 460 517 M140 582 C140 608 212 630 300 630 C388 630 460 608 460 582"/>
+      <circle cx="192" cy="520" r="5"/><circle cx="192" cy="585" r="5"/><circle cx="192" cy="650" r="5"/></g>
+    <path d="M54 786 H546" stroke="#b5e8ff" stroke-width="1"/>
+    <text x="54" y="822" font-size="19" font-weight="700" letter-spacing="2">ACERVO DEMONSTRATIVO</text>
+    <text x="54" y="854" font-size="16">Capa ilustrativa · Livro fictício</text>
+  </g>
+</svg>
