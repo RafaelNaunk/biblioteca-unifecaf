@@ -64,29 +64,3 @@ No CSS, o tema guarda as cores em variáveis:
 Essas variáveis são herdadas pelos elementos dentro do cartão. A regra do botão, por exemplo, usa `background-color: var(--cor-categoria, #005fa3);`. A função `var()` lê a cor escolhida. O segundo valor fornece um azul padrão caso a variável não exista.
 
 Assim, mudar `--cor-categoria` de Design atualiza os elementos que usam essa variável, sem precisar repetir uma regra de botão para cada categoria. Os SVGs externos das capas e das ilustrações também foram recoloridos; eles não herdam automaticamente as variáveis do CSS da página.
-
-## O que foi ajustado na revisão
-
-O segundo banner estava dentro da seção “Sobre a nossa biblioteca”. Ele foi colocado depois do fechamento dessa seção e antes da seção de livros. Assim, a sequência fica: banner principal, apresentação e categorias, segundo banner, livros, unidades e contatos.
-
-Isso mostra a importância do aninhamento: um elemento escrito antes do fechamento de uma seção pertence a ela. Recuar o código facilita enxergar essa relação; a posição das tags de abertura e fechamento é que define a estrutura.
-
-As regras de responsividade foram reunidas no final do CSS, com um bloco para 900 pixels e outro para 700 pixels. O HTML também recebeu indentação consistente e comentários para facilitar o estudo.
-
-## Verificações realizadas
-
-A revisão estática do código confirmou:
-
-- seis cartões de livros e três unidades;
-- existência dos 17 arquivos de imagem e da folha de estilos referenciados;
-- oito links internos com destinos existentes;
-- ausência de identificadores duplicados e fechamento das tags conferido;
-- seis controles `details` com `summary`;
-- idioma `pt-BR` e configuração de viewport para dispositivos móveis;
-- ausência de JavaScript, estilos embutidos e dependências externas de código.
-
-As quatro combinações principais de texto e fundo verificadas apresentaram contraste calculado entre 6,63:1 e 14,68:1. Esse cálculo não representa uma avaliação completa de acessibilidade.
-
-Na atualização de cores, o contraste calculado do texto branco nos botões ficou entre 6,46:1 e 7,10:1; nas etiquetas, entre 5,95:1 e 6,23:1. As cores claras usadas nos textos das capas também tiveram seu contraste calculado sobre o respectivo fundo.
-
-**Teste visual pendente:** o navegador do ambiente de revisão bloqueou a abertura do arquivo local. Aparência, navegação pelo teclado e funcionamento em diferentes tamanhos ainda precisam ser conferidos no navegador do aluno ou no endereço publicado.
